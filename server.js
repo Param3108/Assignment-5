@@ -6,7 +6,7 @@
 * 
 *  Name: Param Katrodia    Student ID: 112126222   Date: Nov 20, 2023
 *
-*  Online (Cyclic) URL: https://champagne-meerkat-wrap.cyclic.app/blog
+*  Online (Cyclic) URL:  https://kind-pink-pigeon-gear.cyclic.app
 *
 ********************************************************************************/ 
 
